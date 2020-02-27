@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:NBioBSPJNI_v2.0.0.3(11):unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NBioBSPJNI_v2.0.0.3(11)/build/.transforms/e13990414b3c3ccc275fd1355434b7a7/jetified-NBioBSPJNI_v2.0.0.3(11)/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/NBioBSPJNI_v2.0.0.3(11)/build/.transforms/e13990414b3c3ccc275fd1355434b7a7/jetified-NBioBSPJNI_v2.0.0.3(11)/res" />
+      <root url="jar://$PROJECT_DIR$/NBioBSPJNI_v2.0.0.3(11)/build/.transforms/e13990414b3c3ccc275fd1355434b7a7/jetified-NBioBSPJNI_v2.0.0.3(11)/jars/libs/AlCamera.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
